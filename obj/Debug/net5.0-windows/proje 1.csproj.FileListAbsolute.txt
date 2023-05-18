@@ -1,0 +1,23 @@
+C:\Users\eko_k\Desktop\proje 1\bin\Debug\net5.0-windows\proje 1.exe
+C:\Users\eko_k\Desktop\proje 1\bin\Debug\net5.0-windows\proje 1.deps.json
+C:\Users\eko_k\Desktop\proje 1\bin\Debug\net5.0-windows\proje 1.runtimeconfig.json
+C:\Users\eko_k\Desktop\proje 1\bin\Debug\net5.0-windows\proje 1.runtimeconfig.dev.json
+C:\Users\eko_k\Desktop\proje 1\bin\Debug\net5.0-windows\proje 1.dll
+C:\Users\eko_k\Desktop\proje 1\bin\Debug\net5.0-windows\ref\proje 1.dll
+C:\Users\eko_k\Desktop\proje 1\bin\Debug\net5.0-windows\proje 1.pdb
+C:\Users\eko_k\Desktop\proje 1\obj\Debug\net5.0-windows\proje 1.csproj.AssemblyReference.cache
+C:\Users\eko_k\Desktop\proje 1\obj\Debug\net5.0-windows\proje_1.Form1.resources
+C:\Users\eko_k\Desktop\proje 1\obj\Debug\net5.0-windows\proje 1.csproj.GenerateResource.cache
+C:\Users\eko_k\Desktop\proje 1\obj\Debug\net5.0-windows\proje 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eko_k\Desktop\proje 1\obj\Debug\net5.0-windows\proje 1.AssemblyInfoInputs.cache
+C:\Users\eko_k\Desktop\proje 1\obj\Debug\net5.0-windows\proje 1.AssemblyInfo.cs
+C:\Users\eko_k\Desktop\proje 1\obj\Debug\net5.0-windows\proje 1.csproj.CoreCompileInputs.cache
+C:\Users\eko_k\Desktop\proje 1\obj\Debug\net5.0-windows\proje 1.dll
+C:\Users\eko_k\Desktop\proje 1\obj\Debug\net5.0-windows\ref\proje 1.dll
+C:\Users\eko_k\Desktop\proje 1\obj\Debug\net5.0-windows\proje 1.pdb
+C:\Users\eko_k\Desktop\proje 1\obj\Debug\net5.0-windows\proje 1.genruntimeconfig.cache
+C:\Users\eko_k\Desktop\proje 1\obj\Debug\net5.0-windows\proje_1.UserControl1.resources
+C:\Users\eko_k\Desktop\proje 1\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\eko_k\Desktop\proje 1\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\eko_k\Desktop\proje 1\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\eko_k\Desktop\proje 1\obj\Debug\net5.0-windows\proje 1.csproj.CopyComplete
